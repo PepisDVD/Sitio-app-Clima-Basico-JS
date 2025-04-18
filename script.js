@@ -1,6 +1,6 @@
 //Extraemos la key del API desde la web
 let url_base = 'https://api.openweathermap.org/data/2.5/weather'
-let apiKey = 'd7a2e403d369569a8945a60a1106246e';
+let apiKey = '';
 //let ciudad = 'Córdova'
 let difKelvin = 273.35;
 
